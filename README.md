@@ -20,7 +20,7 @@ something. Helooo
 
 Things I am good at
 
-| Rank | Languages |
+| Rank | Things |
 |-----:|-----------|
 |     1| C#        |
 |     2| Python    |
