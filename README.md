@@ -17,3 +17,12 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 This is a separate block for
 something. Helooo
 ```
+
+Things I am good at
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| C#        |
+|     2| Python    |
+|     3| Football  |
+|      4|FIFA|
