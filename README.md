@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @G0dang
 >My name is Aayush Gurung
 - 👀 I’m interested in getting a job
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently on a project
+- 💞️ 
+- 📫 How to reach me > gurung.aayush@gmail.com
 
 <!---
 G0dang/G0dang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
