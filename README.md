@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @G0dang
+>My name is Aayush Gurung
 - 👀 I’m interested in getting a job
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
