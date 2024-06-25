@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @G0dang
->My name is Aayush Gurung
+- My real name is Aayush Gurung
 - 👀 I’m interested in getting a job
-- 🌱 I’m currently on a project
-- 💞️ 
+- 🌱 I’m currently on a project to develop a windows apllication.
+- Using .NET C# for the project development.
 - 📫 How to reach me 
   ``` gurung.aayush@gmail.com```
 
